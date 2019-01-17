@@ -1,7 +1,7 @@
 {
   "name": "react-redux-course",
   "version": "1.0.0",
-  "description": "React-Redux course for Treehouse",
+  "description": "React-Redux",
   "main": "src/index.js",
   "scripts": {
     "prestart": "npm run lint",
