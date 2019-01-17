@@ -1,1 +1,1 @@
-# react-js-collection
+# React.js apps collection
